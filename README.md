@@ -1,4 +1,4 @@
-# **Análisis del rendimiento goleador de Leonel Messi**
+# **Análisis del rendimiento goleador de Lionel Messi**
 El objetivo del proyecto es analizar cómo se ha desarrollado la capacidad goleadora del futbolista Argentino Lionel Messi en los distintos clubes donde jugó. 
 El análisis se basará en su desempeño a través del tiempo, en cada torneo disputado, jugando en casa (o fuera de ella), enfrentando a equipos de cada Comunidad
 Autónoma de España y en clásicos. También se comparará a Messi con el resto de los goleadores del top 50 histórico en cuánto a sus estaturas.
